@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @anshikasso
-- 👀 I’m interested in UI/UX (BEGINNER)
 - 🌱 I’m currently learning ...
 
 
